@@ -13,7 +13,7 @@
   "dependencies": {
     "bootstrap": "^3.4.1",
     "copy-text-to-clipboard": "^2.2.0",
-    "office-ui-fabric-react": "^7.119.1",
+    "office-ui-fabric-react": "^7.137.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-markdown": "^4.3.1",
